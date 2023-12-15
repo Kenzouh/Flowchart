@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T15:25:00.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="YpNtLnwPyvqEWewfoDo-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T15:34:43.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FJxmTPpbh8RIPI9f-fbF" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,6 +44,12 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OdIKat0q07yFy6DE0-Zj-0" value="&lt;span id=&quot;boardmix-data-meta&quot; data-metadata=&quot;&lt;!--(boardmeta)ewoJImZpbGVLZXkiIDogIkpvbWhWd0M3TDlSdjFZb2JIRWRGY0EiLAoJIm9ialR5cGVzIiA6IG51bGwsCgkicGFnZUlEIiA6ICIwOjEiCn0K(/boardmeta)--&gt;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;boardmix-data-buffer&quot; data-buffer=&quot;&lt;!--(boardmix)010101015F02000306040001057F0000000088FB6375007F00000089D16A58068796B31B0785223D840801010102010301042401CBD98D420000000002CBD98D430000000002B0C65443911EC2420200000000911EC2420501060100090101FF0102FFD383FE0F030004010500060000070000087F0000000000007F00000000000A0101FF0102808080F80F04010501060107000802000009010A010B81000040000B010D01010E456E7465722050617373776F72640201010002808080F80F0300040105000600070009830000200AFFFFFFFF0F000303040305014D6F6E6F746F6E000006010701010002010301000200000400050000080109000A4A61766100000E1C0F0201016002020303047E000040000001016102010303047D0000807EFEFFFF00127E0013010101020003000400050006C48891FA0F0700000014001800198680101A00260027002B010000002C0101027F0100007F010000030204000500080009000A00000B010C010D000E000F0400000000100100020000001101014B656E7A6F20526167756E6469617A00023136373438320004D694F0AB06000012001301002E0132020100000200030000003A003E0100020003000041010002210003D00F04D00F05D00F0600000701D00F02D00F03D00F000000080000(/boardmix)--&gt;&quot;&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 1.3;font-family: Monoton; text-align: center; vertical-align: middle; color: #000000; font-size: 18.000000px; font-style: normal; font-weight: bold;&quot;&gt;&lt;p&gt;&lt;span&gt;Enter Password&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="70" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OdIKat0q07yFy6DE0-Zj-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
